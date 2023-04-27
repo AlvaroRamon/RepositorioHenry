@@ -1,2 +1,21 @@
 # RepositorioHenry
-📍 EJERCICIO 01 Debes generar un repositorio en GitHub. Para esto ingresa a GITHUB y logueate con tu usuario y contraseña.  El objetivo de este ejercicio es que crees un nuevo repositorio llamado "RepositorioHenry".
+📍 EJERCICIO 01 
+"RepositorioHenry".
+
+📍 EJERCICIO 02
+"CarpetaHenry"
+
+📍 EJERCICIO 03
+Ingresa a la carpeta que acabas de crear utilizando los comandos ya aprendidos.
+
+cd CarpetaHenry
+
+📍 EJERCICIO 04
+Crear archivo.
+touch primerArchivo.txt
+
+📍 EJERCICIO 05
+Subir tus cambios al repositorio de Github.
+
+git add Readme.md
+git commit -m "Homework 2 COMANDOS - GIT - GITHUB"
